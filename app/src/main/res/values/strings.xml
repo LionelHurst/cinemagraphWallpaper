@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cinemagraph	LWP</string>
+    <string name="action_settings">Settings</string>
+    <string name="cinemagraph_wp_desc">Still photographs with animated features!</string>
+    <string name="linkTitle">Purchase the full version</string>
+    <string name="linkSummary">Removes watermark and opens options!</string>
+    <string name="selectTitle">Set Live Wallpaper</string>
+    <string name="selectSummary">Set your background</string>
+    <string name="select">Select your Cinemagraph</string>
+    <string name="full">Only available in full version</string>
+    <string name="settings">Settings</string>
+
+</resources>

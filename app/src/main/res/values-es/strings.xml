@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cinemagraph	LWP Lite</string>
+    <string name="action_settings">Configuración</string>
+    <string name="cinemagraph_wp_desc">Las fotografías fijas con películas de dibujos animados!</string>
+    <string name="linkTitle">Compra la versión completa</string>
+    <string name="linkSummary">Desbloquea todos los fondos de pantalla!</string>
+    <string name="selectTitle">Establecer Live Wallpaper</string>
+    <string name="selectSummary">Establecer el fondo</string>
+    <string name="select">Seleccione su Cinemagraph</string>
+    <string name="full">Sólo disponible en la versión completa</string>
+    <string name="settings">Ajustes</string>
+
+</resources>

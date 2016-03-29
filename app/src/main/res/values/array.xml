@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="listValuesPicture">
+	<item>Barbour</item>
+	<item>Campfire</item>
+	<item>Candles</item>
+	<item>Cars</item>
+	<item>Chicago</item>
+	<item>Car Dashboard</item>
+	<item>Desert</item>
+	<item>Forest</item>
+	<item>Horse</item>
+	<item>Lightning</item>
+	<item>Ocean</item>
+	<item>Owl</item>
+	<item>River</item>
+	<item>Shooting Star</item>
+	<item>Skyrim</item>
+	<item>Sunset</item>
+	<item>Theatre</item>
+	<item>Tornado</item>
+	<item>Wind Turbine</item>
+</string-array>
+<string-array name="listArrayPicture">
+    <item>barbor</item>
+	<item>campfire</item>
+	<item>candles</item>
+	<item>cars</item>
+	<item>chicago</item>
+	<item>dashboard</item>
+	<item>desert</item>
+	<item>forest</item>
+	<item>horse</item>
+	<item>lightning</item>
+	<item>ocean</item>
+	<item>owl</item>
+	<item>river</item>
+	<item>shootingstar</item>
+	<item>skyrim</item>
+	<item>sunset</item>
+	<item>theatre</item>
+	<item>tornado</item>
+	<item>turbine</item>
+</string-array>
+<string-array name="listArrayQuality">
+    <item>High (Dither + AA)</item>
+    <item>Medium (Dither)</item>
+    <item>Low (no filter)</item>
+</string-array>
+<string-array name="listValuesQuality">
+    <item>high</item>
+    <item>medium</item>
+    <item>low</item>
+</string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="samplelive_wallpaper_settings" >
+
+    <PreferenceCategory android:title="Settings" >
+        <ListPreference
+            android:defaultValue="river"
+            android:entries="@array/listArrayPicture"
+            android:entryValues="@array/listValuesPicture"
+            android:key="pref_picture"
+            android:title="Select your Cinemagraph" />
+            <!-- android:summary="Only available in paid version!"-->
+            
+
+        <!-- <Preference
+            android:summary="@string/linkSummary"
+            android:title="@string/linkTitle" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://play.google.com/store/apps/developer?id=Unity+Technologies+A/S" />
+        </Preference>-->
+    </PreferenceCategory>
+
+</PreferenceScreen>

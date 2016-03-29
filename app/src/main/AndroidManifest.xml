@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dagtech.cinemagraphwallpaper"
+    android:versionCode="9"
+    android:versionName="1.9">
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="19" />
+
+    <uses-feature android:name="android.software.live_wallpaper" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name">
+        <activity
+            android:name="com.dagtech.cinemagraphwallpaper.Settings"
+            android:exported="true"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <service
+            android:name="com.dagtech.cinemagraphwallpaper.CinemagraphWallpaper"
+            android:label="@string/app_name"
+            android:permission="android.permission.BIND_WALLPAPER" >
+            <intent-filter>
+                
+                <action android:name="android.service.wallpaper.WallpaperService" />
+            </intent-filter>
+                <meta-data
+                    android:name="android.service.wallpaper"
+                    android:resource="@xml/cinemagraph_wp" />
+
+        </service>
+    </application>
+
+</manifest>

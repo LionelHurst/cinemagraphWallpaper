@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="listValuesPicture">
+	<item>Barbour</item>
+	<item>Hoguera</item>
+	<item>Velas</item>
+	<item>Coches</item>
+	<item>Chicago</item>
+	<item>Coches Salpicadero</item>
+	<item>Desierto</item>
+	<item>Bosque</item>
+	<item>Caballo</item>
+	<item>Relámpago</item>
+	<item>Océano</item>
+	<item>Búho</item>
+	<item>Río</item>
+	<item>Estrella Fugaz</item>
+	<item>Skyrim</item>
+	<item>Puesta Del Sol</item>
+	<item>Teatro</item>
+	<item>Tornado</item>
+	<item>Aerogenerador</item>
+</string-array>
+<string-array name="listArrayPicture">
+    <item>barbor</item>
+	<item>campfire</item>
+	<item>candles</item>
+	<item>cars</item>
+	<item>chicago</item>
+	<item>dashboard</item>
+	<item>desert</item>
+	<item>forest</item>
+	<item>horse</item>
+	<item>lightning</item>
+	<item>ocean</item>
+	<item>owl</item>
+	<item>river</item>
+	<item>shootingstar</item>
+	<item>skyrim</item>
+	<item>sunset</item>
+	<item>theatre</item>
+	<item>tornado</item>
+	<item>turbine</item>
+</string-array>
+<string-array name="listArrayQuality">
+    <item>High (Dither + AA)</item>
+    <item>Medium (Dither)</item>
+    <item>Low (no filter)</item>
+</string-array>
+<string-array name="listValuesQuality">
+    <item>high</item>
+    <item>medium</item>
+    <item>low</item>
+</string-array>
+</resources>
